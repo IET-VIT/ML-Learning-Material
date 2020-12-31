@@ -70,8 +70,8 @@ Here is a list of awesome articles available online that you should definitely r
 Here are some great books to read for the people preferring the reading path.
 
 * [Mathematics for Machine Learning](https://mml-book.com/) - Free Online
-* [Artificial Intelligence: A Modern Approach](http://libgen.gs/ads.php?md5=bcf9e109bbfa056d2afdb40bfb87a879) - Downloadable
-* [The Elements of Statistical Learning](http://libgen.gs/ads.php?md5=9b83a23721c337a9f18f5cd3437b6584) - Downloadable
+* [Artificial Intelligence: A Modern Approach](https://drive.google.com/file/d/1q6LGS3CGq80KHPzRQKER4QsNCX4lqpoY/view?usp=sharing) - Downloadable
+* [The Elements of Statistical Learning](https://drive.google.com/file/d/1Wwor3NEgYUwRwhC7sQwNOCvKCJsztO3_/view?usp=sharing) - Downloadable
 
 
 ### 7. Save Cheat Sheets!<a name="MoreResources"></a>
