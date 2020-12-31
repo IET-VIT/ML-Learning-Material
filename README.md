@@ -1,4 +1,4 @@
-# ML Learning Material 
+# ML Learning Material
 
   
 This guide is intended for anyone having zero or a small background in programming, maths, and machine learning. If you don't like reading books, skip it. There is not a single way to become a machine learning expert and with motivation, you can absolutely achieve it.
@@ -9,7 +9,8 @@ Don't be afraid to repeat videos or learn from multiple sources. Repetition is t
 
 <strong> _Feel free to message us if there's any other great resources to add to this repository or regarding any doubts related to any material or concept_ </strong> 
 
-## Table of Contents
+## Table of Contents 
+
 - [x] [No coding background, no problem](#Coding)
 - [x] [Setting up an Anaconda Environment](#Env)
 - [x] [Courses](#AndrewNG)
@@ -59,7 +60,7 @@ Here is a list of awesome articles available online that you should definitely r
 * [Start Machine Learning in 2021 - Become an expert for free!](https://medium.com/towards-artificial-intelligence/start-machine-learning-in-2020-become-an-expert-from-nothing-for-free-f31587630cf7) - Louis Bouchard
 * [5 Beginner Friendly Steps to Learn Machine Learning and Data Science with Python](https://towardsdatascience.com/5-beginner-friendly-steps-to-learn-machine-learning-and-data-science-with-python-bf69e211ade5) - Daniel Bourke
 * [What is Machine Learning?](https://medium.com/towards-artificial-intelligence/what-is-machine-learning-ml-b58162f97ec7) - Roberto Iriondo
-* [Machine Learning Algorithms for Beginners](https://favtutor.com/blogs/machine-learning-algorithms-for-beginners)
+* [Machine Learning Algorithms for Beginners](https://favtutor.com/blogs/machine-learning-algorithms-for-beginners) 
 * [9 Types of Regression Analysis (in ML & Data Science)](https://favtutor.com/blogs/types-of-regression) 
 
 
@@ -69,8 +70,8 @@ Here is a list of awesome articles available online that you should definitely r
 Here are some great books to read for the people preferring the reading path.
 
 * [Mathematics for Machine Learning](https://mml-book.com/) - Free Online
-* [Artificial Intelligence: A Modern Approach](https://amzn.to/302jB8M) - Optional (Paying)
-* [The Elements of Statistical Learning](https://amzn.to/3mQXT0Y) - Optional (Paying)
+* [Artificial Intelligence: A Modern Approach](http://libgen.gs/ads.php?md5=bcf9e109bbfa056d2afdb40bfb87a879) - Downloadable
+* [The Elements of Statistical Learning](http://libgen.gs/ads.php?md5=9b83a23721c337a9f18f5cd3437b6584) - Downloadable
 
 
 ### 7. Save Cheat Sheets!<a name="MoreResources"></a>
