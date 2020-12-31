@@ -90,8 +90,7 @@ Here is a list of some great courses to learn the programming side of machine le
     * [Towards Data Science](https://towardsdatascience.com/) - "Sharing concepts, ideas, and codes"
     * [Towards AI](https://medium.com/towards-artificial-intelligence) - "The Best of Tech, Science, and Engineering."
     * [OneZero](https://onezero.medium.com/) - "The undercurrents of the future. A Medium publication about tech and science."
-    * [What's AI](https://medium.com/@whats_ai) - "Hi, I am Louis (loo·ee, French pronunciation), from Montreal, Canada, also known as "What's AI". I try to share and explain artificial intelligence terms and news the best way I can for everyone. My goal is to demystify the AI “black box” for everyone and sensitize people about the risks of using it."
- 
+    * [Analytics Vidhya](https://medium.com/analytics-vidhya) - 
 
 # References : 
 * [1](https://github.com/louisfb01/start-machine-learning-in-2020#MoreResources)
