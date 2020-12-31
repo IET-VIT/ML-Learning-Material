@@ -1,4 +1,4 @@
-# ML-Learning-Material 
+# ML Learning Material 
 
   
 This guide is intended for anyone having zero or a small background in programming, maths, and machine learning. If you don't like reading books, skip it. There is not a single way to become a machine learning expert and with motivation, you can absolutely achieve it.
@@ -10,14 +10,23 @@ Don't be afraid to repeat videos or learn from multiple sources. Repetition is t
 <strong> _Feel free to message us if there's any other great resources to add to this repository or regarding any doubts related to any material or concept_ </strong> 
 
 ## Table of Contents
+- [x] [No coding background, no problem](#Coding)
 - [x] [Setting up an Anaconda Environment](#Env)
 - [x] [Courses](#AndrewNG)
 - [x] [Practice, practice, and practice!](#Practice)
 - [x] [Follow free online courses on YouTube](#YouTubeCourses)
 - [x] [Read articles](#ReadArticles)
 - [x] [Read books](#ReadBooks)
-- [x] [No coding background, no problem](#Coding)
 - [x] [More Resources (Communities, cheat sheets, news, and more!)](#MoreResources)
+
+## No coding background, no problem we got you covered<a name="Coding"></a>
+Here is a list of some great courses to learn the programming side of machine learning.
+
+* [Learn Python](https://www.learnpython.org/) - Free interactive tutorial to learn python
+* [Learn Python Basics for Data Analysis](https://openclassrooms.com/en/courses/2304731-learn-python-basics-for-data-analysis/6009031-get-started-with-python-and-anaconda) - Free course on OpenClassrooms
+* [Machine Learning with Python | Coursera - IBM](https://click.linksynergy.com/deeplink?id=8jtkHPNI0iU&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fmachine-learning-with-python) - Optional (Paying)
+
+# Follow these steps for the next few weeks until the review 👇🏽
 
 ## 1. Setup a Anaconda Environment, which will help you complete the coding tasks<a name="Env"></a>
 You can refer this video to set an environment: [Setting up Conda Environment](https://www.youtube.com/watch?v=EGaw6VXV3GI)
@@ -63,15 +72,8 @@ Here are some great books to read for the people preferring the reading path.
 * [Artificial Intelligence: A Modern Approach](https://amzn.to/302jB8M) - Optional (Paying)
 * [The Elements of Statistical Learning](https://amzn.to/3mQXT0Y) - Optional (Paying)
 
-## 7. No coding background, no problem we got you covered<a name="Coding"></a>
-Here is a list of some great courses to learn the programming side of machine learning.
 
-* [Learn Python](https://www.learnpython.org/) - Free interactive tutorial to learn python
-* [Learn Python Basics for Data Analysis](https://openclassrooms.com/en/courses/2304731-learn-python-basics-for-data-analysis/6009031-get-started-with-python-and-anaconda) - Free course on OpenClassrooms
-* [Machine Learning with Python | Coursera - IBM](https://click.linksynergy.com/deeplink?id=8jtkHPNI0iU&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fmachine-learning-with-python) - Optional (Paying)
-
-
-### 8. Save Cheat Sheets!<a name="MoreResources"></a>
+### 7. Save Cheat Sheets!<a name="MoreResources"></a>
 
 * The best Cheat Sheets for Artificial Intelligence, Machine Learning, and Python.
     * [Cheat Sheets for AI, Neural Networks, Machine Learning, Deep Learning & Big Data](https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463) - Stefan Kojouharov
@@ -90,7 +92,7 @@ Here is a list of some great courses to learn the programming side of machine le
     * [Towards Data Science](https://towardsdatascience.com/) - "Sharing concepts, ideas, and codes"
     * [Towards AI](https://medium.com/towards-artificial-intelligence) - "The Best of Tech, Science, and Engineering."
     * [OneZero](https://onezero.medium.com/) - "The undercurrents of the future. A Medium publication about tech and science."
-    * [Analytics Vidhya](https://medium.com/analytics-vidhya) - 
+    * [Analytics Vidhya](https://medium.com/analytics-vidhya) 
 
 # References : 
 * [1](https://github.com/louisfb01/start-machine-learning-in-2020#MoreResources)
